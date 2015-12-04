@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-yeoman",
+  "version": "0.0.1",
+  "description": "ESLint shareable config",
+  "homepage": "https://github.com/zckrs/eslint-config-yeoman",
+  "author": {
+    "name": "Mehdy Dara",
+    "email": "mdara@eleven-labs.com",
+    "url": "https://github.com/zckrs"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "yeoman"
+  ],
+  "repository": "zckrs/eslint-config-yeoman",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-yeoman": "^0.0.1"
+  }
+}
